@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00",
-    "time": 85
+    "time": 74
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00",
-    "time": 176
+    "time": 44
   },
   {
     "name": "Internet Archive",
@@ -21,30 +21,22 @@
     "slug": "internet-archive",
     "status": "up",
     "uptime": "100.00",
-    "time": 460
+    "time": 292
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "dunningen112.de",
+    "url": "https://www.dunningen112.de",
+    "slug": "dunningen112-de",
     "status": "up",
     "uptime": "100.00",
-    "time": 321
+    "time": 2227
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "0.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
     "uptime": "100.00",
-    "time": 52
+    "time": 0
   }
 ]
