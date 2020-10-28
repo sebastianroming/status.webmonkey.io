@@ -19,11 +19,11 @@ sites:
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
-notifications:
-  - type: slack
-    channel: C016QTU9S9Y
-assignees:
-  - AnandChowdhary
+#notifications:
+#  - type: slack
+#    channel: C016QTU9S9Y
+#assignees:
+#  - AnandChowdhary
 
 # Configure your status website
 # http://localhost:3000/docs/configuration#status-website
