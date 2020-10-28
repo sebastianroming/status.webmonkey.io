@@ -1,5 +1,5 @@
-owner: koj-co
-repo: upptime
+owner: sebastianroming
+repo: status.webmonkey.io
 user-agent: KojBot
 
 # Add your sites here
@@ -10,8 +10,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Internet Archive
     url: https://archive.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: dunningen112.de
+    url: https://www.dunningen112.de
   - name: Broken Site
     url: https://thissitedoesnotexist.com
 
