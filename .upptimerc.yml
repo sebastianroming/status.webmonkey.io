@@ -14,8 +14,6 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
