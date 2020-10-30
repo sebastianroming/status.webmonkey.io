@@ -1,4 +1,4 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# [📈 Live Status](https://status.webmonkey.io): <!--live status--> **🟨 Partial outage**
 
 Upptime (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 
@@ -8,15 +8,14 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-## [📈 Live Status](https://upptime.js.org): <!--live status--> **🟨 Partial outage**
 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Google](https://www.google.com) | 🟩 Up | [google.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 83ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
-| [Wikipedia](https://en.wikipedia.org) | 🟩 Up | [wikipedia.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/wikipedia.yml) | <img alt="Response time graph" src="./graphs/wikipedia.png" height="20"> 57ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Fwikipedia%2Fuptime.json)
-| [Internet Archive](https://archive.org) | 🟩 Up | [internet-archive.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/internet-archive.yml) | <img alt="Response time graph" src="./graphs/internet-archive.png" height="20"> 388ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Finternet-archive%2Fuptime.json)
-| [dunningen112.de](https://www.dunningen112.de) | 🟩 Up | [dunningen112-de.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/dunningen112-de.yml) | <img alt="Response time graph" src="./graphs/dunningen112-de.png" height="20"> 2192ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Fdunningen112-de%2Fuptime.json)
+| [Google](https://www.google.com) | 🟩 Up | [google.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 92ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Fgoogle%2Fuptime.json)
+| [Wikipedia](https://en.wikipedia.org) | 🟩 Up | [wikipedia.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/wikipedia.yml) | <img alt="Response time graph" src="./graphs/wikipedia.png" height="20"> 105ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Fwikipedia%2Fuptime.json)
+| [Internet Archive](https://archive.org) | 🟩 Up | [internet-archive.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/internet-archive.yml) | <img alt="Response time graph" src="./graphs/internet-archive.png" height="20"> 399ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Finternet-archive%2Fuptime.json)
+| [dunningen112.de](https://www.dunningen112.de) | 🟩 Up | [dunningen112-de.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/dunningen112-de.yml) | <img alt="Response time graph" src="./graphs/dunningen112-de.png" height="20"> 2278ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Fdunningen112-de%2Fuptime.json)
 | [Broken Site](https://thissitedoesnotexist.com) | 🟥 Down | [broken-site.yml](https://github.com/sebastianroming/status.webmonkey.io/commits/master/history/broken-site.yml) | <img alt="Response time graph" src="./graphs/broken-site.png" height="20"> 0ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsebastianroming%2Fstatus.webmonkey.io%2Fmaster%2Fapi%2Fbroken-site%2Fuptime.json)
 <!--end: status pages-->
 
@@ -341,7 +340,7 @@ Similarly, response time badges are available: ![Response time](https://img.shie
 
 ## 📄 License
 
-- Code: [MIT](./LICENSE) © [Koj](https://koj.co)
+- Code: [MIT](./LICENSE) © [Sebastian Roming](https://webmonkey.io)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
 
 <p align="center">
