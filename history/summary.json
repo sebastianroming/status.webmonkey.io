@@ -3,33 +3,33 @@
     "name": "Google",
     "url": "https://www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 81
+    "time": 80
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 136
+    "time": 126
   },
   {
     "name": "Internet Archive",
     "url": "https://archive.org",
     "slug": "internet-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1289
+    "time": 1234
   },
   {
     "name": "dunningen112.de",
     "url": "https://www.dunningen112.de",
     "slug": "dunningen112-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 1824
+    "time": 1785
   },
   {
     "name": "Broken Site",
