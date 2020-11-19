@@ -1,7 +1,7 @@
 - url: https://archive.org
-- status: down
+- status: up
 - code: 200
-- responseTime: 584
-- lastUpdated: 2020-11-19T06:51:07.178Z
+- responseTime: 591
+- lastUpdated: 2020-11-19T06:57:26.684Z
 - startTime: 2020-08-10T07:54:41.895Z
 - generator: Upptime <https://github.com/upptime/upptime>
