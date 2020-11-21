@@ -19,9 +19,9 @@
     "name": "Internet Archive",
     "url": "https://archive.org",
     "slug": "internet-archive",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 715
+    "time": 706
   },
   {
     "name": "dunningen112.de",
@@ -36,7 +36,7 @@
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "98.16",
+    "uptime": "98.15",
     "time": 0
   }
 ]
