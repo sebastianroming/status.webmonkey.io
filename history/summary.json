@@ -4,39 +4,39 @@
     "url": "https://www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "100.00",
-    "time": 98
+    "uptime": "100.00%",
+    "time": 97
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
-    "uptime": "100.00",
-    "time": 131
+    "uptime": "100.00%",
+    "time": 134
   },
   {
     "name": "Internet Archive",
     "url": "https://archive.org",
     "slug": "internet-archive",
     "status": "up",
-    "uptime": "100.00",
-    "time": 696
+    "uptime": "99.99%",
+    "time": 693
   },
   {
     "name": "dunningen112.de",
     "url": "https://www.dunningen112.de",
     "slug": "dunningen112-de",
     "status": "up",
-    "uptime": "100.00",
-    "time": 2043
+    "uptime": "100.00%",
+    "time": 2068
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "97.36",
+    "uptime": "96.43%",
     "time": 0
   }
 ]
