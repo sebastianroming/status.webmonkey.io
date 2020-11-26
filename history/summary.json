@@ -21,7 +21,7 @@
     "slug": "internet-archive",
     "status": "up",
     "uptime": "99.99%",
-    "time": 689
+    "time": 683
   },
   {
     "name": "dunningen112.de",
@@ -29,14 +29,14 @@
     "slug": "dunningen112-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 2090
+    "time": 2099
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "94.62%",
+    "uptime": "93.75%",
     "time": 0
   }
 ]
