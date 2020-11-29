@@ -13,15 +13,15 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 132
+    "time": 131
   },
   {
     "name": "Internet Archive",
     "url": "https://archive.org",
     "slug": "internet-archive",
     "status": "up",
-    "uptime": "99.97%",
-    "time": 661
+    "uptime": "99.98%",
+    "time": 659
   },
   {
     "name": "dunningen112.de",
@@ -36,7 +36,7 @@
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "91.77%",
+    "uptime": "91.20%",
     "time": 0
   }
 ]
