@@ -27,8 +27,8 @@
     "name": "dunningen112.de",
     "url": "https://www.dunningen112.de",
     "slug": "dunningen112-de",
-    "status": "down",
-    "uptime": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
     "time": 2034
   },
   {
@@ -36,7 +36,7 @@
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "90.71%",
+    "uptime": "90.70%",
     "time": 0
   }
 ]
