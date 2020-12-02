@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 93
+    "time": 92
   },
   {
     "name": "Wikipedia",
@@ -13,7 +13,7 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "time": 131
+    "time": 132
   },
   {
     "name": "Internet Archive",
@@ -29,14 +29,14 @@
     "slug": "dunningen112-de",
     "status": "up",
     "uptime": "99.97%",
-    "time": 2003
+    "time": 1996
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "89.35%",
+    "uptime": "88.80%",
     "time": 0
   }
 ]
