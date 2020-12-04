@@ -10,9 +10,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 74,
-    "timeWeek": 76,
-    "timeMonth": 95,
+    "timeDay": 82,
+    "timeWeek": 80,
+    "timeMonth": 96,
     "timeYear": 97
   },
   {
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 165,
-    "timeWeek": 140,
-    "timeMonth": 132,
-    "timeYear": 139
+    "time": 141,
+    "timeDay": 213,
+    "timeWeek": 167,
+    "timeMonth": 129,
+    "timeYear": 141
   },
   {
     "name": "Internet Archive",
@@ -41,11 +41,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 716,
-    "timeDay": 271,
-    "timeWeek": 490,
-    "timeMonth": 514,
-    "timeYear": 716
+    "time": 708,
+    "timeDay": 286,
+    "timeWeek": 450,
+    "timeMonth": 507,
+    "timeYear": 708
   },
   {
     "name": "dunningen112.de",
@@ -57,22 +57,22 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2233,
-    "timeDay": 2884,
-    "timeWeek": 2082,
-    "timeMonth": 2249,
-    "timeYear": 2233
+    "time": 2247,
+    "timeDay": 2862,
+    "timeWeek": 2234,
+    "timeMonth": 2275,
+    "timeYear": 2247
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "88.02%",
+    "uptime": "87.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.83%",
-    "uptimeYear": "88.02%",
+    "uptimeMonth": "51.55%",
+    "uptimeYear": "87.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
