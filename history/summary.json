@@ -2,6 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
+    "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 71,
-    "timeWeek": 84,
-    "timeMonth": 92,
-    "timeYear": 97
+    "time": 101,
+    "timeDay": 249,
+    "timeWeek": 111,
+    "timeMonth": 97,
+    "timeYear": 101,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org",
+    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -26,14 +29,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 71,
-    "timeWeek": 135,
+    "timeDay": 139,
+    "timeWeek": 152,
     "timeMonth": 125,
-    "timeYear": 138
+    "timeYear": 138,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Internet Archive",
     "url": "https://archive.org",
+    "icon": "https://favicons.githubusercontent.com/archive.org",
     "slug": "internet-archive",
     "status": "up",
     "uptime": "99.98%",
@@ -41,42 +46,72 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
-    "time": 702,
-    "timeDay": 567,
-    "timeWeek": 450,
-    "timeMonth": 511,
-    "timeYear": 702
+    "time": 696,
+    "timeDay": 382,
+    "timeWeek": 425,
+    "timeMonth": 513,
+    "timeYear": 696,
+    "dailyMinutesDown": {
+      "2020-11-28": 23,
+      "2020-11-17": 17
+    }
   },
   {
     "name": "dunningen112.de",
     "url": "https://www.dunningen112.de",
+    "icon": "https://favicons.githubusercontent.com/www.dunningen112.de",
     "slug": "dunningen112-de",
     "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2229,
-    "timeDay": 2087,
-    "timeWeek": 2188,
-    "timeMonth": 2247,
-    "timeYear": 2229
+    "time": 2220,
+    "timeDay": 1791,
+    "timeWeek": 2139,
+    "timeMonth": 2226,
+    "timeYear": 2220,
+    "dailyMinutesDown": {
+      "2020-11-29": 16
+    }
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "85.78%",
+    "uptime": "85.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.97%",
-    "uptimeYear": "85.78%",
+    "uptimeMonth": "41.67%",
+    "uptimeYear": "85.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-07": 47,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 1440,
+      "2020-11-27": 1440,
+      "2020-11-26": 1440,
+      "2020-11-25": 1440,
+      "2020-11-24": 1440,
+      "2020-11-23": 1440,
+      "2020-11-22": 1440,
+      "2020-11-21": 1440,
+      "2020-11-20": 1440,
+      "2020-11-19": 1022
+    }
   }
 ]
